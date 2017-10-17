@@ -137,8 +137,8 @@ $(document).ready(function () {
         var precUserLanguage = userLanguage
         userLanguage = newLanguage;
 
-        var precFile = host + 'stati18n-' + precUserLanguage + '.css';
-        var file = host + 'stati18n-' + userLanguage + '.css';
+        var precFile = host + 'css/stati18n-' + precUserLanguage + '.css';
+        var file = host + 'css/stati18n-' + userLanguage + '.css';
 
         if (!$("link[href='" + file + "']").length && $.inArray(userLanguage, languages) >= 0) {
             $("link[href='" + precFile + "']").remove();
