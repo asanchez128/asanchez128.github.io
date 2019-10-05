@@ -65,3 +65,19 @@
 .stati18n.s18n-getInTouchDescription:after {
 	content: "Le responderé tan pronto como pueda";
 }
+.stati18n.s18n-portfolio:after {
+	content: "Portafolio";
+}
+.stati18n.s18n-webapp:after {
+	content: "Aplicación web";
+}
+.stati18n.s18n-gasmanagement:after {
+	content: "Sistema de gestión de combustible para empresa logística";
+}
+.stati18n.s18n-mobileapp:after {
+	content: "App móvil multi-plataforma";
+}
+.stati18n.s18n-mobileloanorigination:after {
+	content: "Fábrica de crédito móvil";
+}
+

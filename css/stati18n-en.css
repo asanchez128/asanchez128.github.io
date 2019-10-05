@@ -65,3 +65,18 @@
 .stati18n.s18n-getInTouchDescription:after {
 	content: "I'll get back to you as soon as I can";
 }
+.stati18n.s18n-portfolio:after {
+	content: "Portfolio";
+}
+.stati18n.s18n-webapp:after {
+	content: "Web App";
+}
+.stati18n.s18n-gasmanagement:after {
+	content: "Gas management system for logistics company";
+}
+.stati18n.s18n-mobileapp:after {
+	content: "Mobile cross-platform app";
+}
+.stati18n.s18n-mobileloanorigination:after {
+	content: "Mobile loan origination";
+}
